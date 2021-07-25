@@ -1,0 +1,11 @@
+ body{background-color:cornflowerblue ;: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;}
+ .current_time{color: #05ffff;text-align: center; }
+.background1{ opacity: 0.9;background-color:rgb(194, 219, 241);border-radius: 10px;
+background-image: url("./image/water.webp"); background-repeat: no-repeat;
+text-align: center; }
+.articles{margin-left: 200px;margin-right: 200px;height: 210px;
+cursor: pointer; overflow:scroll;}
+.howcan{color:red }
+.bottompart{text-align: center; margin: 50px; padding: 1ex;height: 100px; }
+.bottompart{background-color: aquamarine; border-radius: 50px;}
+ .bottompart{clip-path: polygon(0 0 , 100% 0 , 100% 100% , 65% 55%, 0 100%);}
